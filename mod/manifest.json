@@ -7,7 +7,7 @@
     },
     "icons":
     {
-        "1024": "icon_1024.png"
+        "381": "icon_318.png"
     },
     "manifest_version": 3,
     "mod":
@@ -133,9 +133,9 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 0,
+                        "s": 75,
+                        "l": 50
                     },
                     "gx_secondary_base":
                     {
