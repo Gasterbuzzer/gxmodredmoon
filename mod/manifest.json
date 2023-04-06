@@ -165,7 +165,7 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "wallpaper/dark_castle.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
